@@ -1,4 +1,4 @@
-# raycast por Pedro Santos e Enzo
+# raycast por Pedro Santos e Enzo Luciano
 
 nós utilizamos o Raycast para criar um raio que após atingir o alvo o destruiria usando a função de Destroy, e para criar e gerar constante mente o alvo, o tornamos ele em um Prefab para ser recriado com todas suas características presentes.
 
