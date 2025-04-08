@@ -23,3 +23,9 @@ codigos do MoveWASD
 ![image](https://github.com/user-attachments/assets/24713dda-1bb2-4399-92b4-691cc2676ac3)
 
 ![image](https://github.com/user-attachments/assets/1317e316-7869-4d84-8460-8be6349025b8)
+
+codigo move Mouse
+
+![image](https://github.com/user-attachments/assets/a044c5a6-692e-4e99-86fc-dd202f3f6cbd)
+
+![image](https://github.com/user-attachments/assets/67af6d9d-3278-4a6f-80bb-2bdb59b9349a)
